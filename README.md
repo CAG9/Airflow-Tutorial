@@ -11,4 +11,6 @@ Check availability of forex rates >> Check availability of the file having curre
 - Datetime
 - Csv
 - Requests
--Json
+- Json
+- Hive
+- Hdfs
